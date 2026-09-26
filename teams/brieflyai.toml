@@ -23,7 +23,7 @@ create-oidc-clients = false
 # List of repositories owned by the team.
 # Note that the owners of the repositories must be ScottyLabs-Labrador.
 [[repos]]
-name = "nextjs-boilerplate"                                                              # As it appears at the end of the GitHub repository URL
+name = "ai-newsletter"                                                                   # As it appears at the end of the GitHub repository URL
 description = "The main repo of the Briefly AI project. Contains the front and backend."
 
 # List of membership records by timeframe.
@@ -41,11 +41,3 @@ leads = ["cahove"]
 [[membership.members]]
 github-username = "cahove"
 title = "Frontend Developer" # The title is optional.
-
-[[membership.members]]
-github-username = "KevinL135"
-title = "Backend Developer"
-
-[[membership.members]]
-github-username = "Aaron123456789123456789"
-title = "Backend Developer"
